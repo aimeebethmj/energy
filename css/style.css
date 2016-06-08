@@ -736,7 +736,7 @@ body
     /*width: 1200px;
     margin: 20px auto;*/
 
-    width: 1300px;
+    width: 1200px;
     padding: 0;
     margin: auto;
 }
@@ -893,6 +893,11 @@ ul.emoji-bullets img.emoji
     padding: 0;
     vertical-align: middle;
     margin-right: 2rem;
+}
+
+#other-stuff h2 {
+    margin-bottom: 0;
+    line-height: 1.2;
 }
 
 #what-did-we-learn h1 {
