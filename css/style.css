@@ -900,6 +900,11 @@ ul.emoji-bullets img.emoji
     line-height: 1.2;
 }
 
+#what-did-we-learn .container
+{
+    left: 5%;
+}
+
 #what-did-we-learn h1 {
     text-align: left;
     position: relative;
